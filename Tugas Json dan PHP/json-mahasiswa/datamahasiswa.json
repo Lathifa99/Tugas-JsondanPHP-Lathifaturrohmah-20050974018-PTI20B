@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Lathifaturrohmah",
+    "nim": "20050974018",
+    "no_telepon": "081386782467",
+    "hobi": ["Bersepeda", "Membaca Novel", "Menggambar"],
+    "riwayat_pendidikan": {
+      "SD": "SD Negeri Bulak Banteng II/572 Surabaya",
+      "SMP": "SMP Negeri 15 Surabaya",
+      "SMA": "SMA Negeri 8 Surabaya"
+    }
+  },
+  {
+    "nama": "Nailah Widad Aichie Ramadhani",
+    "nim": "2005097415",
+    "no_telepon": "085730427119",
+    "hobi": ["Travelling", "Melukis", "Menyanyi"],
+    "riwayat_pendidikan": {
+      "SD": "SD Wachid Hasyim 1 Surabaya",
+      "SMP": "SMP Negeri 15 Surabaya",
+      "SMA": "SMA Negeri 5 Surabaya"
+    }
+  }
+]
